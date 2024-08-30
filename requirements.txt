@@ -1,0 +1,7 @@
+pandas
+plotly
+streamlit
+matplotlib
+streamlit_keplergl
+numerize
+pillow

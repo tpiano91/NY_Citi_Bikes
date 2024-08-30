@@ -14,7 +14,7 @@ from PIL import Image
 
 
 st.set_page_config(page_title = 'NY Citi Bikes Strategy Dashboard (Jersey City)', layout='wide')
-st.title("Jersey City Strategy Dashboard")
+st.title("NY Citi Bikes: Jersey City Strategy Dashboard")
 
 
 # Define side bar
@@ -41,7 +41,7 @@ if page == "Intro page":
     st.markdown("#### This dashboard aims at providing helpful insights on the expansion problems NY Citi Bikes currently faces in Jersey City.")
     st.markdown("Right now, NY Citi bikes runs into a situation where customers complain about bikes not being available at certain times. This analysis will look at the potential reasons behind this. The dashboard is separated into 4 sections:")
     st.markdown("- Weather component and bike usage")
-    st.markdown("- Most popular stations")
+    st.markdown("- Most popular starting stations")
     st.markdown("- Interactive map with aggregated bike trips")
     st.markdown("- Recommendations")
     st.markdown("The dropdown menu on the left 'Aspect Selector' will take you to the different aspects of the analysis our team looked at.")
