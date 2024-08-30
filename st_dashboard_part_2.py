@@ -29,7 +29,6 @@ page = st.sidebar.selectbox('Select an aspect of the analysis',
 df = pd.read_csv('reduced_data_to_plot_7.csv', index_col = 0)
 top20 = pd.read_csv('top_20.csv', index_col = 0)
 df_group = pd.read_csv('daily_rides_and_temperature.csv', index_col = 0)
-
 st.markdown("The dashboard will help with the expansion problems in Jersey City")
 
 ######################################### DEFINE THE PAGES #####################################################################
@@ -143,7 +142,7 @@ elif page == 'Most popular starting stations':
 
 elif page == 'Interactive map with aggregated bike trips': 
 
-    st.write("###### Below is an interactive map showing aggregated bike trips over Jersey City. Using the filter on the left hand side of the map we can check whether the most popular start stations also appear in the most popular trips.")
+    st.write("###### Below is an interactive map showing aggregated bike trips over Jersey City. Using the filter on the left hand side of the map, we can check whether the most popular start stations also appear in the most popular trips.")
 
     # Assign the HTML file name to a variable
     file_name = "NYC_Citi_Bikes_Map.html"
@@ -153,7 +152,7 @@ elif page == 'Interactive map with aggregated bike trips':
         html_data = f.read()
 
     ## Show in web page 
-    st.header("Most Popular Routes in Jersey City (Aggregation/Top 100 Routes)")
+    st.header("Most Popular Routes and Start Stations in Jersey City")
     st.components.v1.html(html_data,height = 1000)
 
     # Insight 1: Three Main Hubs
