@@ -55,7 +55,7 @@
 
 #### ![Weather](Images/weather.png)
 
-#### There is an obvious correlation between the rise and drop of temperatures and their relationship with the frequency of bike trips taken daily. As temperatures plunge, so does bike usage. This insight indicates that the shortage problem may be prevalent merely in the warmer months, approximately from May to October. Below are more specific initial insights:
+##### There is an obvious correlation between the rise and drop of temperatures and their relationship with the frequency of bike trips taken daily. As temperatures plunge, so does bike usage. This insight indicates that the shortage problem may be prevalent merely in the warmer months, approximately from May to October. Below are more specific initial insights:
 
 ##### 1. There are noticeable points of drops in bike usage. The first in early October; followed by a more signifcant drop in mid-November, and again in mid-December (into the holiday season).
 ##### 2. There are individual days of particularly low bike-usage that don't seem to correlate with temperature. The two lowest days for bike usage in 2022 are January 29th (a Saturday) and December 25th. Other noticeably low-use days (in relation to their particular time period) are March 12th (Saturday), May 7th (Saturday), September 6th (Tuesday), and October 3rd (Monday). Further research recommended to find reason for these 'isolated dips.'
