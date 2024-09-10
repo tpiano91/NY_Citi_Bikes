@@ -49,6 +49,10 @@
 ##### Step 5. Execute Python Script to Create Dashboard
 ##### Step 6. Deploy Dashboard and Record Final Presentation (link below)
 
+## Final Presentation and Dashboard
+##### Dashboard: https://tpiano91-ny-citi-bikes-st-dashboard-part-2-bneasy.streamlit.app/
+##### Presentation: https://www.youtube.com/watch?v=n9ltnVQ1rDw
+
 ## Insights
 
 ### Weather
@@ -90,9 +94,6 @@
 ##### 3. In Hub 1, the four most popular 'central stations' are all situated near the waterfront. Additional analysis is required to assess if these four stations can manage being the central stations of this hub; or if these stations should be expanded or if additional stations should be established in the area to alleviate congestion at these four locations.
 ##### 4. In Hub 2, further analysis is recommended to assess whether Grove Street can manage being the central station of this hub, or if the station should be expanded or additional stations introduced in the area to reduce congestion.
 ##### 5. To ensure that bikes are consistently available at the most popular locations, further analysis is necessary to identify specific times of day when these stations predominantly serve as either origin or destination points. During periods when they function primarily as origin stations, it may be important to ensure that an adequate supply of bikes is maintained by replenishing the stock frequently. Conversely, when these stations act as key destinations, efforts should be focused on clearing returned bikes quickly to free up docking space and redistribute them to areas with higher demand for departures.
-
-## Final Presentation
-##### https://www.youtube.com/watch?v=n9ltnVQ1rDw
 
 
 
