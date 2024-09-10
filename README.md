@@ -21,6 +21,7 @@
 ## Data
 ##### Open Source Data from Citi Bike's Database: https://s3.amazonaws.com/tripdata/index.html
 ##### Weather data using NOAA's API Service: https://www.noaa.gov/
+###### *The data used for this project was from January 1st, 2022 - December 1st, 2022
 
 ## Initial Questions and Plan for Dashboard
 
